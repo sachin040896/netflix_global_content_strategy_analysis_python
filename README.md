@@ -1,5 +1,23 @@
 # netflix_global_content_strategy_analysis_python
 
+## Overview
+Netflix is a global leader in the streaming industry, boasting an extensive and diverse content library that serves millions of subscribers worldwide. Facing intensifying competition from major OTT platforms such as Amazon Prime, Disney+, and Hulu, Netflix must deepen its understanding of evolving user preferences, content consumption trends, and performance metrics. This analysis aims to leverage data-driven insights to optimize Netflix’s content strategy, enhance customer retention, and support informed business decision-making in a highly competitive market landscape. <br>
+
+## Dataset Description:
+Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they had over 222M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc <br>
+- Show_id: Unique ID for every movie or TV show. <br>
+- Type: Identifier - Is it a movie or a TV show? <br>
+- Title: The title of the movie or TV show. <br>
+- Director: The director of the movie. <br>
+- Cast: The talented actors involved in the movie or show. <br>
+- Country: The country where the movie or show was produced. <br>
+- Date_added: The date it was added to Netflix. <br>
+- Release_year: The actual release year of the movie or show. <br>
+- Rating: The TV rating of the movie or show. <br>
+- Duration: Total duration, whether in minutes or number of seasons. <br>
+- Listed_in: Genre. <br>
+- Description: A brief summary description. <br>
+
 ## Key Insights from the Case Study
 1. Dataset and Scope <br>
 - The dataset includes 8,807 Netflix titles as of mid-2021, covering movies and TV shows with details such as directors, cast, countries, ratings, release year, duration, genres, and descriptions. <br>
